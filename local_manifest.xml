@@ -13,6 +13,8 @@
   <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
   <project name="Exynos7870/android_hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="github" revision="cm-14.1" />
 
+ <!-- Samsung Exynos 7870 Common Device Tree -->
+  <project name="Exynos7870/android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="github" revision="cm-14.1" />
 
  <!-- Dependencies -->
   <project path="external/busybox" name="LineageOS/android_external_busybox" remote="github" revision="cm-14.1" />
