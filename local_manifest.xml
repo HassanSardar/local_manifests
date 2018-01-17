@@ -5,7 +5,7 @@
   <!-- Galaxy J7 Pro - j7y17lte -->
   <project path="device/samsung/j7y17lte" name="HassanSardar/android_device_samsung_j7y17lte" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung/j7y17lte" name="HassanSardar/android_vendor_samsung_j7y17lte" remote="github" revision="cm-14.1" />
-  <project path="kernel/samsung/7870" name="HassanSardar/msm-3.18" remote="github" revision="3.18.14-Stable" />
+  <project path="kernel/samsung/exynos7870" name="Exynos7870/android_kernel_samsung_exynos7870-common-old" remote="github" revision="cm-14.1" />
 
   <!-- Samsung Exynos Basic Repos -->
   <project name="Exynos7870/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1" />
